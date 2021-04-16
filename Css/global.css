@@ -1,0 +1,12 @@
+html,
+body {
+    height: 100%;
+}
+
+.welcome-form {
+    background-image: url("../Assets/welcomeBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
